@@ -1,0 +1,5 @@
+- I’m @katamaridamacy
+- I’m interested in Minecraft modding.
+- I'm coding in Java for the most part.
+- I've got a "team" of fools.
+- Don't reach me. Unless you found a bug. Just make a thingie on the github.
